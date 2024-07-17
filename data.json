@@ -1,0 +1,14 @@
+{
+    "start": 1695370765.168117,
+    "script": "mainlist.air",
+    "tests": {
+        "2fcaac91": {
+            "status": 0,
+            "path": "mainlist.air/log/2fcaac91/log.html"
+        },
+        "9YE0218516000027": {
+            "status": 0,
+            "path": "mainlist.air/log/9YE0218516000027/log.html"
+        }
+    }
+}

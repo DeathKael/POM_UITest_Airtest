@@ -1,0 +1,54 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+dist/
+develop-eggs/
+.eggs/
+*.egg-info/
+.installed.cfg
+
+# PyInstaller
+# 通常用于打包Python应用，如果使用PyInstaller，可以添加以下规则
+build/
+var/
+*.spec
+
+# Jupyter Notebook files
+.ipynb_checkpoints/
+
+# IPython
+profile_default/
+ipython_config.py
+
+# pyenv
+.python-version
+
+# pipenv
+# 如果使用pipenv管理依赖，可以添加以下规则
+Pipfile.lock
+
+# virtualenv
+# 如果使用virtualenv，可以添加以下规则
+venv/
+virtualenv/
+.env/
+
+# Spyder project settings
+.spyderproject
+
+# Rope project settings
+.ropeproject
+
+# mkdocs documentation
+/site
+
+# mypy
+# 如果使用mypy进行类型检查，可以添加以下规则
+.mypy_cache/
+/.idea/
