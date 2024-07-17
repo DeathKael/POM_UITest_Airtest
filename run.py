@@ -160,7 +160,7 @@ if __name__ == '__main__':
         初始化数据
     """
     devices = [tmp[0] for tmp in ADB().devices()]
-    air = 'mainlist.air'
+    air = 'aircases/doctor/doctor_list.air'
 
     # Continue tests saved in data.json
     # Skip scripts that run succeed
